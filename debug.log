@@ -1,0 +1,6 @@
+[1027/220321.387:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::`anonymous-namespace'::ReadStruct<struct crashpad::process_types::PEB<struct crashpad::process_types::internal::Traits64>>(void *,unsigned __int64,struct crashpad::process_types::PEB<struct crashpad::process_types::internal::Traits64> *): Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1027/220321.396:ERROR:process_info.cc(566)] ReadProcessData failed
+[1027/220321.397:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffb41011988 of 12 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1027/220321.397:WARNING:process_snapshot_win.cc(72)] ReadMemory ExceptionInformation failed
+[1027/220321.397:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[1027/220321.398:ERROR:scoped_process_suspend.cc(39)] NtResumeProcess: An attempt was made to access an exiting process.  (0xc000010a)

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetConfBot_AddingBusinessLogic", "DotnetConfBot_AddingCUI\DotnetConfBot_AddingBusinessLogic.csproj", "{147ABAA5-C59D-4AC9-92C6-72F7FE8BE67A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotnetconf_DataAccess", "Dotnetconf_DataAccess\Dotnetconf_DataAccess.csproj", "{693653F5-6B6E-40B6-A4BE-5128081D8E14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{147ABAA5-C59D-4AC9-92C6-72F7FE8BE67A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{147ABAA5-C59D-4AC9-92C6-72F7FE8BE67A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{147ABAA5-C59D-4AC9-92C6-72F7FE8BE67A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{147ABAA5-C59D-4AC9-92C6-72F7FE8BE67A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{693653F5-6B6E-40B6-A4BE-5128081D8E14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{693653F5-6B6E-40B6-A4BE-5128081D8E14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{693653F5-6B6E-40B6-A4BE-5128081D8E14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{693653F5-6B6E-40B6-A4BE-5128081D8E14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5477F85C-5488-4BE1-8904-B4218A43C1AA}
+	EndGlobalSection
+EndGlobal

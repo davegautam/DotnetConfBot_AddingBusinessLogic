@@ -1,0 +1,41 @@
+C:\Users\Dev Raj\Desktop\Conf2017\DotnetConfBot_AddingCUI\DotnetConfBot_AddingCUI\bin\Bot Application.dll.config
+C:\Users\Dev Raj\Desktop\Conf2017\DotnetConfBot_AddingCUI\DotnetConfBot_AddingCUI\bin\Bot Application.dll
+C:\Users\Dev Raj\Desktop\Conf2017\DotnetConfBot_AddingCUI\DotnetConfBot_AddingCUI\bin\Bot Application.pdb
+C:\Users\Dev Raj\Desktop\Conf2017\DotnetConfBot_AddingCUI\DotnetConfBot_AddingCUI\bin\Autofac.dll
+C:\Users\Dev Raj\Desktop\Conf2017\DotnetConfBot_AddingCUI\DotnetConfBot_AddingCUI\bin\Chronic.dll
+C:\Users\Dev Raj\Desktop\Conf2017\DotnetConfBot_AddingCUI\DotnetConfBot_AddingCUI\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\Dev Raj\Desktop\Conf2017\DotnetConfBot_AddingCUI\DotnetConfBot_AddingCUI\bin\Microsoft.Bot.Builder.dll
+C:\Users\Dev Raj\Desktop\Conf2017\DotnetConfBot_AddingCUI\DotnetConfBot_AddingCUI\bin\Microsoft.Bot.Connector.dll
+C:\Users\Dev Raj\Desktop\Conf2017\DotnetConfBot_AddingCUI\DotnetConfBot_AddingCUI\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Dev Raj\Desktop\Conf2017\DotnetConfBot_AddingCUI\DotnetConfBot_AddingCUI\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Dev Raj\Desktop\Conf2017\DotnetConfBot_AddingCUI\DotnetConfBot_AddingCUI\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Dev Raj\Desktop\Conf2017\DotnetConfBot_AddingCUI\DotnetConfBot_AddingCUI\bin\Newtonsoft.Json.dll
+C:\Users\Dev Raj\Desktop\Conf2017\DotnetConfBot_AddingCUI\DotnetConfBot_AddingCUI\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dev Raj\Desktop\Conf2017\DotnetConfBot_AddingCUI\DotnetConfBot_AddingCUI\bin\System.Net.Http.Formatting.dll
+C:\Users\Dev Raj\Desktop\Conf2017\DotnetConfBot_AddingCUI\DotnetConfBot_AddingCUI\bin\System.Web.Http.dll
+C:\Users\Dev Raj\Desktop\Conf2017\DotnetConfBot_AddingCUI\DotnetConfBot_AddingCUI\bin\System.Web.Http.WebHost.dll
+C:\Users\Dev Raj\Desktop\Conf2017\DotnetConfBot_AddingCUI\DotnetConfBot_AddingCUI\bin\Autofac.xml
+C:\Users\Dev Raj\Desktop\Conf2017\DotnetConfBot_AddingCUI\DotnetConfBot_AddingCUI\bin\Microsoft.Bot.Builder.xml
+C:\Users\Dev Raj\Desktop\Conf2017\DotnetConfBot_AddingCUI\DotnetConfBot_AddingCUI\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\Dev Raj\Desktop\Conf2017\DotnetConfBot_AddingCUI\DotnetConfBot_AddingCUI\bin\Microsoft.Bot.Connector.xml
+C:\Users\Dev Raj\Desktop\Conf2017\DotnetConfBot_AddingCUI\DotnetConfBot_AddingCUI\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Dev Raj\Desktop\Conf2017\DotnetConfBot_AddingCUI\DotnetConfBot_AddingCUI\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Dev Raj\Desktop\Conf2017\DotnetConfBot_AddingCUI\DotnetConfBot_AddingCUI\bin\Newtonsoft.Json.xml
+C:\Users\Dev Raj\Desktop\Conf2017\DotnetConfBot_AddingCUI\DotnetConfBot_AddingCUI\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Dev Raj\Desktop\Conf2017\DotnetConfBot_AddingCUI\DotnetConfBot_AddingCUI\bin\System.Net.Http.Formatting.xml
+C:\Users\Dev Raj\Desktop\Conf2017\DotnetConfBot_AddingCUI\DotnetConfBot_AddingCUI\bin\System.Web.Http.xml
+C:\Users\Dev Raj\Desktop\Conf2017\DotnetConfBot_AddingCUI\DotnetConfBot_AddingCUI\bin\System.Web.Http.WebHost.xml
+C:\Users\Dev Raj\Desktop\Conf2017\DotnetConfBot_AddingCUI\DotnetConfBot_AddingCUI\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Dev Raj\Desktop\Conf2017\DotnetConfBot_AddingCUI\DotnetConfBot_AddingCUI\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\Dev Raj\Desktop\Conf2017\DotnetConfBot_AddingCUI\DotnetConfBot_AddingCUI\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\Dev Raj\Desktop\Conf2017\DotnetConfBot_AddingCUI\DotnetConfBot_AddingCUI\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Dev Raj\Desktop\Conf2017\DotnetConfBot_AddingCUI\DotnetConfBot_AddingCUI\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Dev Raj\Desktop\Conf2017\DotnetConfBot_AddingCUI\DotnetConfBot_AddingCUI\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Dev Raj\Desktop\Conf2017\DotnetConfBot_AddingCUI\DotnetConfBot_AddingCUI\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Dev Raj\Desktop\Conf2017\DotnetConfBot_AddingCUI\DotnetConfBot_AddingCUI\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Dev Raj\Desktop\Conf2017\DotnetConfBot_AddingCUI\DotnetConfBot_AddingCUI\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Dev Raj\Desktop\Conf2017\DotnetConfBot_AddingCUI\DotnetConfBot_AddingCUI\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Dev Raj\Desktop\Conf2017\DotnetConfBot_AddingCUI\DotnetConfBot_AddingCUI\obj\Debug\DotnetConfBot_AddingCUI.csprojResolveAssemblyReference.cache
+C:\Users\Dev Raj\Desktop\Conf2017\DotnetConfBot_AddingCUI\DotnetConfBot_AddingCUI\obj\Debug\DotnetConfBot_AddingCUI.csproj.CoreCompileInputs.cache
+C:\Users\Dev Raj\Desktop\Conf2017\DotnetConfBot_AddingCUI\DotnetConfBot_AddingCUI\obj\Debug\Bot Application.dll
+C:\Users\Dev Raj\Desktop\Conf2017\DotnetConfBot_AddingCUI\DotnetConfBot_AddingCUI\obj\Debug\Bot Application.pdb
